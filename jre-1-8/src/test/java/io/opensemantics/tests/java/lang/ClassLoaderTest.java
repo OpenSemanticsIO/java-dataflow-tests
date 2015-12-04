@@ -6,7 +6,7 @@ import java.net.URL;
 
 import org.junit.Test;
 
-public class ClassLoader {
+public class ClassLoaderTest {
 
 	@Test
 	public void test_getResource_pathTraversal() {
