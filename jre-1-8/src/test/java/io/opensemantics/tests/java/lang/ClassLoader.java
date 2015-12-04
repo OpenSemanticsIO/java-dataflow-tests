@@ -1,4 +1,4 @@
-package us.coastalhacking.tests.java.lang;
+package io.opensemantics.tests.java.lang;
 
 import static org.junit.Assert.*;
 
